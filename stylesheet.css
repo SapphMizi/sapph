@@ -11,6 +11,12 @@
   a{
     color: #fff;
   }
+
+.recaptcha {
+    position:absolute;
+    top:40px;
+    left:40px;
+}
   
   /*========= particle js を描画するエリア設定 ===============*/
   
