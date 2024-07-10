@@ -17,6 +17,10 @@
     top:40px;
     left:40px;
 }
+
+.position-base {
+    position:relative;
+}
   
   /*========= particle js を描画するエリア設定 ===============*/
   
