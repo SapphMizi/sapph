@@ -14,13 +14,10 @@
 
 .recaptcha {
     position:absolute;
-    top:40px;
-    left:40px;
+    top:50%;
+    left:50%;
 }
 
-.position-base {
-    position:relative;
-}
   
   /*========= particle js を描画するエリア設定 ===============*/
   
